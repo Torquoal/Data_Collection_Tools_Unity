@@ -1,0 +1,7 @@
+P1​, excited, Female, 5
+P1​, love, Female, 6
+P1​, excited, Female, 5
+P1​, sad, Female, 3
+P1​, spooky, Female, 1
+P1​, excited, Female, 5
+P1​, neutral, Female, 2
